@@ -1,6 +1,6 @@
-# Superscript sreformatter for docx documents
+# Superscript reformatter for docx documents
 
-A weird little script for reformatting superscripts into intext references.
+A weird little script for reformatting superscripts to in-text references.
 
 ### How to use
 
